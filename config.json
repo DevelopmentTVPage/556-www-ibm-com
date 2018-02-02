@@ -1,0 +1,15 @@
+{
+    "title": "Testing projects",
+    "baseURL": "https:\/\/www.ibm.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758939",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "ibm.com"
+    }
+}
