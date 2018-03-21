@@ -1,0 +1,58 @@
+{
+    "title": "Testing",
+    "description": "",
+    "referenceId": "TVP_LIVE_5162622",
+    "date_created": "1517556284",
+    "date_modified": "1517556284",
+    "tags": null,
+    "sourceId": "7",
+    "VIDEO_LENGTH": null,
+    "duration": null,
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "139541518",
+    "loginId": "1758939",
+    "entityType": "1",
+    "titleTextEncoded": "Testing",
+    "category": null,
+    "settings": {
+        "destinations": [
+            {
+                "ip": "34.210.199.91",
+                "port": "1935",
+                "url": "rtmp:\/\/34.210.199.91\/staging-565a2a8a3faf8841ca154d98f138f3e9"
+            },
+            {
+                "ip": "52.39.52.203",
+                "port": "1935",
+                "url": "rtmp:\/\/52.39.52.203\/staging-565a2a8a3faf8841ca154d98f138f3e9"
+            }
+        ],
+        "provider": "TVP_LIVE",
+        "providerId": "5162622",
+        "environment": "staging",
+        "liveId": "565a2a8a3faf8841ca154d98f138f3e9",
+        "live_status": "LIVE_STOPPED",
+        "live_quality": "1080",
+        "quality": null
+    },
+    "asset": {
+        "type": "mp4",
+        "type_stream": "live",
+        "sources": [],
+        "hlsUrl": "https:\/\/10380e91fda5e303.mediapackage.us-west-2.amazonaws.com\/out\/v1\/ee2d739bf3314279ac80ebf58ba13229\/index.m3u8",
+        "dashUrl": "https:\/\/10380e91fda5e303.mediapackage.us-west-2.amazonaws.com\/out\/v1\/d2eb32bb77f14d02bc527ff9079670fc\/index.mpd",
+        "live_status": "LIVE_STOPPED",
+        "live_quality": "1080",
+        "status_url": "\/\/stage.tvpage.com\/api\/videos\/live\/status\/1758939\/139541518"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 0
+}
